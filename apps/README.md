@@ -6,6 +6,7 @@ Blue App displays "Welcome to the BLUE app"
 White App display "Welcome to the White app"
 
 ---
+
 To deploy the blue-app in Azure:
 
 az spring-cloud app create -n blue-app -s <spring-cloud-service> -g <spring-cloud-service-rg> --assign-endpoint true

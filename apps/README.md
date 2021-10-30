@@ -3,7 +3,7 @@ Test Java jar files for use with Azure Spring Cloud.
 
 Blue App displays "Welcome to the BLUE app"
 
-White App display "Welcome to the White app"
+White App display "Welcome to the WHITE app"
 
 ---
 
